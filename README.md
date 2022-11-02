@@ -27,4 +27,5 @@ pip install -r requirments.txt
 python crash.py
 ```
 
+# for queries
  **[contact me](https://t.me/keagtorb79)**
